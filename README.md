@@ -18,7 +18,7 @@ This Setup Contains-
 First, clone this repository by typing...
 
 ​```sh​
-​$ git clone https://github.com/adi1090x/termux-style.git​
+​$ git clone https://github.com/majid0707/deephack.git
 ​```​
 
 And Then, type...
