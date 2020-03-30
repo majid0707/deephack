@@ -18,8 +18,7 @@ This Setup Contains-
 First, clone this repository by typing...
 
 ​```sh​
-​$ git clone https://github.com/majid0707/deephack
-
+​$ git clone https://github.com/majid0707/deephack
 ​```​
 
 And Then, type...
